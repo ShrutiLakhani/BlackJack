@@ -1,0 +1,20 @@
+#btn
+{
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 80%;
+}
+body
+{
+  background-color: green;
+}
+
+h1{
+  color: goldenrod;
+}
+
+#btns
+{
+  background-color: goldenrod;
+}
