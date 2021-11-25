@@ -11,10 +11,15 @@ body
 }
 
 h1{
-  color: goldenrod;
+  color:yellow;
 }
 
-#btns
+#btns-start
 {
-  background-color: goldenrod;
+  background-color: goldenrod !important;
+  
+}
+#btns-new
+{
+  background-color: goldenrod !important;
 }
