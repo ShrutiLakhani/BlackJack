@@ -12,14 +12,24 @@ body
 
 h1{
   color:yellow;
+  text-align: center;
 }
-
+#cards-el
+{
+ text-align: center;
+}
+#sum-el
+{
+ text-align: center;
+}
 #btns-start
 {
   background-color: goldenrod !important;
+  text-align: center;
   
 }
 #btns-new
 {
   background-color: goldenrod !important;
+  text-align: center;
 }
